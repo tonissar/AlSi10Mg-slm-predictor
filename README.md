@@ -33,10 +33,10 @@ python Param_predictor.py
 
 #### How to Use
 Adjust Target Properties using the sliders (left panel):
-Relative Density: 95-100%
-Surface Roughness: 5-30 μm
-Hardness: 100-150 HV
-View Predictions (right panel):Laser Power, Scan Speed, Hatch Distance, Layer Thickness
+Relative Density: 95-100%,
+Surface Roughness: 5-30 μm,
+Hardness: 100-150 HV,
+View Predictions (right panel):Laser Power, Scan Speed, Hatch Distance, Layer Thickness.
 laser energy density indicates the process stability.
 
 ### Methodology
