@@ -18,12 +18,12 @@ Install the Python extension (by Microsoft) from the Extensions marketplace
 
 ### Step 3: Install Required python Libraries
 Open terminal in VS Code and run command:
-### pip install torch numpy PyQt6
+pip install torch numpy PyQt6
 
 ### Step 4: Run the console application Param_predictor.py
 ### Option 1: VS Code
 Open the folder of downloaded GUI console files in VS Code:
-Open python file Param_predictor.py.
+Open python file 'Param_predictor.py'.
 Click the ▶ Run button (top right) or press F5
 
 ### Option 2: in the Terminal run the below command
