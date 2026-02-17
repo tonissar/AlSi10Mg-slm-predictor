@@ -1,9 +1,9 @@
 # AlSi10Mg SLM Process Parameter Predictor
 
-A reverse-trained ANN GUI tool for predicting Selective Laser Melting process parameters for targeted mechanical properties (Relative density, Surface roughness and hardness) of AlSi10Mg alloy.
+A reverse-trained ANN GUI tool for predicting Selective Laser Melting process parameters for targeted mechanical properties (Relative density, Surface roughness and hardness) of AlSi10Mg alloy. A
 
 ## Requirements
-
+Download all files required to run the console from the folder /GUI_files
 - **Python**: Version 3.8 or higher
 - **Libraries**: PyTorch, NumPy, PyQt6
 - **VS Code**
