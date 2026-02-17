@@ -21,12 +21,12 @@ Open terminal in VS Code and run:
 pip install torch numpy PyQt6
 
 ### Step 4: Run the console application
-Option 1: VS Code
+### Option 1: VS Code
 Open the folder in VS Code
 Open Param_predictor.py
 Click the ▶ Run button (top right) or press F5
 
-Option 2: Terminal
+### Option 2: in the Terminal run the below command
 python Param_predictor.py
 
 #### Important: Keep all the files in the same folder location as Param_predictor.py
